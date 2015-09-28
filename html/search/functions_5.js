@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['goosereceiver_5faddsubscriber',['GooseReceiver_addSubscriber',['../group__goose__api__group.html#ga8b37913120d4d1f50d85ead04190da96',1,'goose_receiver.h']]],
+  ['goosereceiver_5fcreate',['GooseReceiver_create',['../group__goose__api__group.html#gaa7c8b671a0a66b7aee3d866bcd829da9',1,'goose_receiver.h']]],
+  ['goosereceiver_5fdestroy',['GooseReceiver_destroy',['../group__goose__api__group.html#ga1f1f68a5b67d7eb9affde904f488f129',1,'goose_receiver.h']]],
+  ['goosereceiver_5fremovesubscriber',['GooseReceiver_removeSubscriber',['../group__goose__api__group.html#gab0c2293a29ba318162e11cd34652e0e8',1,'goose_receiver.h']]],
+  ['goosereceiver_5fsetinterfaceid',['GooseReceiver_setInterfaceId',['../group__goose__api__group.html#gab2723aab78ac9ac082c599cb9e8f4bd2',1,'goose_receiver.h']]],
+  ['goosereceiver_5fstart',['GooseReceiver_start',['../group__goose__api__group.html#ga8eec74eabd66f887c1e8e60675e34f4b',1,'goose_receiver.h']]],
+  ['goosereceiver_5fstartthreadless',['GooseReceiver_startThreadless',['../group__goose__api__group.html#gae49d8dbae446faa0fd1f89f2ceb29eda',1,'goose_receiver.h']]],
+  ['goosereceiver_5fstop',['GooseReceiver_stop',['../group__goose__api__group.html#gacdc6f70c34ec5d1fea32ac677bf05d9d',1,'goose_receiver.h']]],
+  ['goosereceiver_5fstopthreadless',['GooseReceiver_stopThreadless',['../group__goose__api__group.html#ga46df19d5eb74bb9071e4be45ec93aa83',1,'goose_receiver.h']]],
+  ['goosereceiver_5ftick',['GooseReceiver_tick',['../group__goose__api__group.html#ga6476803c7082845a92e3db4fbdb24b69',1,'goose_receiver.h']]],
+  ['goosesubscriber_5fcreate',['GooseSubscriber_create',['../group__goose__api__group.html#ga222be19bda58b8c14093d7818e5d4ed2',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fdestroy',['GooseSubscriber_destroy',['../group__goose__api__group.html#ga9302986f8d1d9e9015e669d69d91cd8b',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fgetdatasetvalues',['GooseSubscriber_getDataSetValues',['../group__goose__api__group.html#ga7a7dafe72a28a57553f6dd01c437fcfa',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fgetsqnum',['GooseSubscriber_getSqNum',['../group__goose__api__group.html#ga4dd05b7978c5b33d67e111113330f603',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fgetstnum',['GooseSubscriber_getStNum',['../group__goose__api__group.html#ga3ed317b00bf2fb0a819f7941f06c0521',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fgettimeallowedtolive',['GooseSubscriber_getTimeAllowedToLive',['../group__goose__api__group.html#ga2ecf7ef44dd818efc41f641bc95b7e28',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fgettimestamp',['GooseSubscriber_getTimestamp',['../group__goose__api__group.html#ga56752d761ffc5c13578dd08a7fa78030',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fistest',['GooseSubscriber_isTest',['../group__goose__api__group.html#ga2efecc9c1f4d28f5b377853338607392',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fisvalid',['GooseSubscriber_isValid',['../group__goose__api__group.html#gafef4eeb624ef47ac070d3ee5c0815954',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fneedscommission',['GooseSubscriber_needsCommission',['../group__goose__api__group.html#ga5d295fca9584b6bcd84c6df496f9b7ed',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fsetappid',['GooseSubscriber_setAppId',['../group__goose__api__group.html#ga30cb2316ad5c20e41598e9f792a21898',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fsetgoid',['GooseSubscriber_setGoId',['../group__goose__api__group.html#ga39e5d455b1d6546fa5dcc88f28be9cbd',1,'goose_subscriber.h']]],
+  ['goosesubscriber_5fsetlistener',['GooseSubscriber_setListener',['../group__goose__api__group.html#ga3af56648a2087196e36ad1407a66199d',1,'goose_subscriber.h']]],
+  ['gsecontrolblock_5fcreate',['GSEControlBlock_create',['../group__DYNAMIC__MODEL.html#ga664a2e156b2fdd7a484c32a86f95436c',1,'iec61850_dynamic_model.h']]]
+];
